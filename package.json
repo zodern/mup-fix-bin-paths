@@ -1,0 +1,21 @@
+{
+  "name": "mup-fix-bin-paths",
+  "version": "0.1.0",
+  "description": "Plugin for Meteor Up to fix npm bin paths that break deploying from Windows",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zodern",
+  "license": "MIT",
+  "keywords": [
+    "meteor-up"
+  ],
+  "dependencies": {
+    "snyk-resolve-deps": "^1.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.0"
+  }
+}
