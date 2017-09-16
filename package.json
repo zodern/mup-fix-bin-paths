@@ -12,6 +12,12 @@
   "keywords": [
     "meteor-up"
   ],
+  "homepage": "https://github.com/zodern/mup-fix-bin-paths",
+  "bugs": "https://github.com/zodern/mup-fix-bin-paths/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zodern/mup-fix-bin-paths.git"
+  },
   "dependencies": {
     "snyk-resolve-deps": "^1.8.0"
   },
